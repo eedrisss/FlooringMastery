@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Baldwin,Virginia,5.30,Tile,100.0,3.50,4.15,350.000,415.000,1530.053,1530.053

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Ahmad,NJ,6.88,GreenTile,200.0,3.50,4.15,700.000,830.000,3060.0688,3060.0688

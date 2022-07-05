@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Baldwin Varner,Virginia,5.30,BlackTile,100,3.50,4.15,350.00,415.00,1530.053,1530.053
